@@ -24,7 +24,7 @@ Database
 
 ## Resources
 - Data Source: [IMDB](https://www.imdb.com/list/ls006444168/?sort=list_order,asc&st_dt=&mode=detail&page=1 "Movies based on novels and books"), [Reader's Digest](https://www.rd.com/list/hit-movies-that-were-books-first/), [Wikipedia](https://en.wikipedia.org/wiki/List_of_best-selling_books "List of Best Selling Books"), [New York Times Best Sellers List](https://www.nytimes.com/books/best-sellers/),
-Goodreads_books_with_genre.csv [Kaggle_Dataset](https://www.kaggle.com/datasets/middlelight/goodreadsbookswithgenres "Goodread's books with genres")
+Goodreads_books_with_genre.csv (sourced from [Kaggle_Dataset](https://www.kaggle.com/datasets/middlelight/goodreadsbookswithgenres "Goodread's books with genres"))
 
 - Languages: python, jupyter notebook
 - Packages: Pandas, BeautifulSoup, Splinter
