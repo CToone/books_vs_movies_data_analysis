@@ -8,7 +8,7 @@ Additional questions:
 3. How many Books have been made into Movies have won awards?
 4. Does the Movie of a Book impact the sale of the Book?
 
-Project is being worked by Chanelle, Elizabeth and Katie
+Project is being worked by Chanelle Toone, Elizabeth Mirabal and Katie Kobus
 
 
 #### Team Roles
