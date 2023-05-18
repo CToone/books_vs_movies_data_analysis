@@ -40,4 +40,19 @@ We all worked together on the database to create new tables and export the combi
 ![join_tables](Resources/join_table.png)
 > This portion was worked on as a team via Zoom
 
+![NYT Bestsellers List](Images/NYTbestsellers.png)
+> Chanelle used this code to scrape the bestsellers list from the New York Times website. Chanelle requested the API to obtain the information
+
+![NYT Bestsellers list](Images/NYT%20data.png)
+
+![Reader's Digest Books to Movies List](Images/rd_btm.png)
+> Katie used this code to scrape this information from Reader's Digest website.
+
+![Reader's Digest data](Images/RD%20data.png)
+
+![IMDB Movies from Books](Images/imdb_moviesFromBooks.png)
+> Elizabeth used this code to scrape this information from an IMDb Movies made from books on their website.
+
+![IMDb Data](Images/IMDb_data.png)
+
 ## Summary
